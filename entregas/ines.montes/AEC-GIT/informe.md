@@ -14,3 +14,5 @@ Paso 4: Cambio de rama y modificación del informe con texto y capturas de panta
 
 ![Imagen 1](1.png) 
 ![Imagen 2](2.png) 
+![Imagen 3](3.png) 
+![Imagen 4](4.png) 
