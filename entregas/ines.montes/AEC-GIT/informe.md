@@ -1,0 +1,1 @@
+Paso 1: Clonar el repositorio. + Paso 2: Crear carpetas personalizadas dentro de entregas.
